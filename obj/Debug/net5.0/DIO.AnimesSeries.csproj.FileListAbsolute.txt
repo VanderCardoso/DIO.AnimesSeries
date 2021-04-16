@@ -1,0 +1,16 @@
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.csprojAssemblyReference.cache
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.AssemblyInfoInputs.cache
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.AssemblyInfo.cs
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.csproj.CoreCompileInputs.cache
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.exe
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.deps.json
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.runtimeconfig.json
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.runtimeconfig.dev.json
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.dll
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\ref\DIO.AnimesSeries.dll
+D:\git\DIO.AnimesSeries\bin\Debug\net5.0\DIO.AnimesSeries.pdb
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.dll
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\ref\DIO.AnimesSeries.dll
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.pdb
+D:\git\DIO.AnimesSeries\obj\Debug\net5.0\DIO.AnimesSeries.genruntimeconfig.cache
